@@ -42,4 +42,4 @@ Practicing **Problem Solving Skills** daily
 ---
 
 ### 📫 Contact
-You can reach me on [LinkdIn](https://www.linkedin.com/in/narender-singh-9b87293a8/) or check out my code at [GitHub](https://narender4556.github.io/narender-portfolio/)
+You can reach me on [LinkdIn](https://www.linkedin.com/in/narender-singh-9b87293a8/) or check out my code at [GitHub](https://narender4556.github.io/narender-portfolio/).
