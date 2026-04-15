@@ -28,12 +28,15 @@ A tool to create QR codes from text or links.
 
 
 Hi, I'm **Narender Singh**  
-Passionate about **Web Development** and **Python**  
+Passionate about **Backend Development** and **Python**  
 Practicing **Problem Solving Skills** daily
 
 <p align="center">
 <b>🔥 Skills:</b> HTML | CSS  Python | Git | GitHub <br>
-<b>📚 Learning:</b> Frontend Development | DSA <br>
+<b>📚 Learning:</b> Backend| Data Structure and Algorithms <br>
 <b>🧠 Focus:</b> Problem Solving & Coding Logic <br>
 <b>🎯 Goal:</b> Become a Professional Developer
 </p>
+
+### 📫 Contact
+You can reach me on [LinkdIn](https://www.linkedin.com/in/narender-singh-9b87293a8/) or check out my code at [GitHub](https://narender4556.github.io/narender-portfolio/)
