@@ -33,7 +33,7 @@ Practicing **Problem Solving Skills** daily
 ---
 
 <p align="center">
-<b>🔥 Skills:</b> HTML | CSS  Python | Git | GitHub <br>
+<b>🔥 Skills:</b> HTML | CSS  | Python | Git | GitHub <br>
 <b>📚 Learning:</b> Backend| Data Structure and Algorithms <br>
 <b>🧠 Focus:</b> Problem Solving & Coding Logic <br>
 <b>🎯 Goal:</b> Become a Professional Developer
